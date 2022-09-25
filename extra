@@ -1,0 +1,24 @@
+npx create-react-app firstapp
+
+Component
+# Functional
+> Dumb component
+> Use for the purpose display only
+> Cannot maintain the state
+
+# ClassComponent
+> Logical Componet
+> Use to logics as well as display
+> We can maintain the state
+
+
+> Hooks
+
+State
+> State act like a local variable
+> Every component can have its own state
+> State are mutable (we can update the value)
+
+Props
+> Use to transfer the data between 2 nested component
+> Value of props cannot updated
